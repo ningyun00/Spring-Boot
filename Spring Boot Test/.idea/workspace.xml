@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="881eabd9-1912-4a0e-aa27-3c1623fc7258" name="更改" comment="spring Boot 测试">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Boot Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/Entity/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/mapper/UsersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/server/UsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/server/impl/UsersServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/resources/com/ning/test/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/Entity/Users.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/controller/TestController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/mapper/UsersMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/server/UsersService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/server/impl/UsersServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../apache-maven-3.9.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2X3wlq4t5o4Gi7HZ3pESHdV7NS8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Lombok plugin": "Lombok 集成问题",
+    "Notification.DoNotAsk-Lombok plugin": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelOrder2": "2",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth2": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/02-工作项目/其它/JAVA/Spring Boot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ning.test.server.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\02-工作项目\其它\JAVA\Spring Boot\Spring Boot Test\Spring-Boot-Tomcat\src\main\resources\com\ning\test\mapper" />
+      <recent name="D:\02-工作项目\其它\JAVA\Spring Boot\Spring Boot Test\Spring-Boot-Tomcat" />
+      <recent name="D:\02-工作项目\其它\JAVA\Spring Boot\Spring Boot Test\Spring-Boot-Tomcat\src\main\resources" />
+      <recent name="D:\02-工作项目\其它\JAVA\Spring Boot\Spring Boot Test\Spring-Boot-Tomcat\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Boot-Tomcat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ning.test.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ning.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="881eabd9-1912-4a0e-aa27-3c1623fc7258" name="更改" comment="" />
+      <created>1697871225681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697871225681</updated>
+      <workItem from="1697871227166" duration="2156000" />
+      <workItem from="1698212639354" duration="1587000" />
+      <workItem from="1698214959676" duration="3050000" />
+      <workItem from="1698218026690" duration="7837000" />
+      <workItem from="1698227410665" duration="96000" />
+      <workItem from="1698227742303" duration="1097000" />
+      <workItem from="1698281742542" duration="4167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring Boot 测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring Boot 测试" />
+  </component>
+</project>
