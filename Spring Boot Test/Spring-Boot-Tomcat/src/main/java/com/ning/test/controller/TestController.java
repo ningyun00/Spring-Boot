@@ -3,6 +3,7 @@ package com.ning.test.controller;
 import com.ning.test.Entity.Users;
 import com.ning.test.server.UsersService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
@@ -12,6 +13,7 @@ import java.util.List;
 public class TestController {
 
     @Autowired
+    @Qualifier("usersService")
     private  UsersService usersService;
 
     @GetMapping("/getListUsers")

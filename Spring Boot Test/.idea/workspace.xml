@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="881eabd9-1912-4a0e-aa27-3c1623fc7258" name="更改" comment="spring Boot 测试">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Boot Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/Entity/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/server/UsersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/server/impl/UsersServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/resources/com/ning/test/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/Entity/Users.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/mapper/UsersMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/server/UsersService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/server/impl/UsersServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/server/impl/UsersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Boot-Tomcat/src/main/java/com/ning/test/server/impl/UsersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/server/impl/UsersServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Spring-Boot-Tomcat/target/classes/com/ning/test/server/impl/UsersServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,8 +128,17 @@
       <workItem from="1698218026690" duration="7837000" />
       <workItem from="1698227410665" duration="96000" />
       <workItem from="1698227742303" duration="1097000" />
-      <workItem from="1698281742542" duration="4167000" />
+      <workItem from="1698281742542" duration="4383000" />
     </task>
+    <task id="LOCAL-00001" summary="spring Boot 测试">
+      <option name="closed" value="true" />
+      <created>1698286199033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698286199033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
